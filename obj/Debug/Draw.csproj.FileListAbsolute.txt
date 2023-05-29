@@ -1,0 +1,20 @@
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\Lenovo Y510P\source\repos\Exercises at uni\draw-2022-2023_0\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+D:\CG&GUI\3\bin\Debug\Draw.exe
+D:\CG&GUI\3\bin\Debug\Draw.pdb
+D:\CG&GUI\3\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\CG&GUI\3\obj\Debug\Draw.Properties.Resources.resources
+D:\CG&GUI\3\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\CG&GUI\3\obj\Debug\Draw.MainForm.resources
+D:\CG&GUI\3\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\CG&GUI\3\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\CG&GUI\3\obj\Debug\Draw.exe
+D:\CG&GUI\3\obj\Debug\Draw.pdb
